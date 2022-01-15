@@ -1,4 +1,3 @@
-
 # Olá! Eu sou o Guilherme
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-maciel-070b39206/)
@@ -22,6 +21,3 @@
 <img align='center' alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 '>
 </div>
-<br>
-
-### Adicionar um algum texto neste espaço
